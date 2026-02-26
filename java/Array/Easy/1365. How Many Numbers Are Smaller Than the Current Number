@@ -8,6 +8,7 @@ class Solution {
         // Create a frequency array of size 101
         // Because constraint says:
         // 0 <= nums[i] <= 100
+        //so we use freq
         int[] freq = new int[101];
 
         // Step 1: Count how many times each number appears
