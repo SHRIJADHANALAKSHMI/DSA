@@ -1,0 +1,28 @@
+import java.time.LocalDate;
+import java.time.temporal.ChronoUnit;
+// Importing date classes
+
+class Solution {
+    public int daysBetweenDates(String date1, String date2) {
+
+        // Convert first date string (YYYY-MM-DD)
+        // into a LocalDate object
+        LocalDate d1 = LocalDate.parse(date1);
+
+        // Convert second date string
+        // into a LocalDate object
+        LocalDate d2 = LocalDate.parse(date2);
+
+        // Calculate number of days between d1 and d2
+        // This automatically handles:
+        // - Leap years
+        // - Month differences
+        // - Year differences
+        long days = ChronoUnit.DAYS.between(d1, d2);
+
+        // Return absolute value
+        // Because difference can be negative
+        // if date1 is after date2
+        return (int)Math.abs(days);
+    }
+}
