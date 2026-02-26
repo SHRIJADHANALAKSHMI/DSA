@@ -7,4 +7,4 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 | S.No | Problem | Performance |
 |------|----------|-------------|
-| 1 | 1.TwoSum.java |  |
+| 1 | 1.TwoSum.java | Converted java from submodule to normal folder properly |
