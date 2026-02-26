@@ -7,4 +7,4 @@ This document records my ongoing journey of practicing and mastering Data Struct
 
 | S.No | Problem | Performance |
 |------|----------|-------------|
-| 1 | 1.TwoSum.java | Converted java from submodule to normal folder properly |
+| 1 | 1.TwoSum.java | Runtime: 4 ms (Beats 93.64%) | Memory Usage: 45.2 MB (Beats 88.21%) |
