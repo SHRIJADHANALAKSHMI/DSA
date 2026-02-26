@@ -18,7 +18,7 @@ class Solution {
 
             // Check if the needed number was already seen before
             if (map.containsKey(needed)) {
-
+                // If yes, return the index of the needed number
                 // If yes, return the index of the needed number
                 // and the current index
                 return new int[] { map.get(needed), i };
