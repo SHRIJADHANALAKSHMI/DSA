@@ -1,3 +1,8 @@
+// Problem: Two Sum
+// LeetCode: https://leetcode.com/problems/two-sum/
+// Difficulty: Easy
+// Runtime: 4 ms (Beats 93.64%)
+// Memory: 45.2 MB (Beats 88.21%)
 import java.util.HashMap;
 //importing bnm,,  
 class Solution {
