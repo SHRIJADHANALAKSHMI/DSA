@@ -1,6 +1,6 @@
 class Solution {
     public int search(int[] nums, int target) {
-        
+        // Binary search in a rotated sorted array
         int low = 0;
         int high = nums.length - 1;
         
