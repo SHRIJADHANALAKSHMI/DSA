@@ -50,10 +50,10 @@ class Solution {
 } 
 
 
-=======================================================
+//=======================================================
 
-brute force approach
-class Solution {
+//brute force approach
+//class Solution {
     public boolean checkIfExist(int[] arr) {
         int n = arr.length;
         
