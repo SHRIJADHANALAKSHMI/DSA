@@ -13,5 +13,5 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 4 | 33.Search in Rotated sorted array.java | Updated README and added pending files |
 | 5 | 1365. How Many Numbers Are Smaller Than the Current Number.java | Runtime:1 ms (Beats 99.64%) | Memory Usage: 45.53 MB (Beats 99.51%) |
 | 6 | 1356.sort integers by the number of 1 bits.java | Runtime:7 ms (Beats 89.18%) | Memory Usage: 46.92 MB (Beats 86.47%) |
-| 7 | 1346.check if N and its Double exist.java | Updated README and added pending files |
+| 7 | 1346.check if N and its Double exist.java | Runtime:2 ms (Beats 97.58%) | Memory Usage: 44.92 MB (Beats 37.47%) |
 | 8 | 1.TwoSum.java | Runtime: 4 ms (Beats 93.64%) | Memory Usage: 45.2 MB (Beats 88.21%) |
