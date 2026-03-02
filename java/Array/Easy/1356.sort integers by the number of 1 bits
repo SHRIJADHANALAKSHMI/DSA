@@ -1,5 +1,6 @@
 import java.util.Arrays;
 import java.util.Comparator;
+//Arrays
 class Solution {
     public int[] sortByBits(int[] arr) {
         // Convert int[] to Integer[] to use custom Comparator with Arrays.sort
