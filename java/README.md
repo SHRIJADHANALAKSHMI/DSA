@@ -15,7 +15,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 6 | 2.AddTwoNumbers.java | Runtime:1 ms (Beats 99.55%) | Memory Usage: 46.92 MB (Beats 37.18%) |
 | 7 | 49.group anagrams.java | Runtime:7 ms (Beats 76.54%) | Memory Usage: 49.37 MB (Beats 96.06%) |
 | 8 | 47.permutations 2.java | Runtime:3 ms (Beats 89.87%) | Memory Usage:46.43MB (Beats 94.46%) |
-| 9 | 34.find first and last of element in sorted.java |  |
+| 9 | 34.find first and last of element in sorted.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:48.32MB (Beats 26.92%) |
 | 10 | 33.Search in Rotated sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.92 MB (Beats 66.13%) |
 | 11 | 4.median of two sorted arrays.java | Runtime:1 ms (Beats 99.72%) | Memory Usage:48.88MB (Beats 70.23%) |
 | 12 | 88.merge sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.77 MB (Beats 75.79%) |
