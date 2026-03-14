@@ -7,7 +7,7 @@ class Solution {
 
         dp[0][0] = true;
 
-        // Handle patterns like a*, a*b*
+        // Handle patterns like a*, a*b* etc.
         for (int j = 2; j <= n; j++) {
             if (p.charAt(j - 1) == '*') {
                 dp[0][j] = dp[0][j - 2];
