@@ -49,13 +49,9 @@ class Solution {
 Problem Idea
 
 You are given:
-
 String s
-
 Dictionary wordDict
-
 You must insert spaces so that every word exists in the dictionary.
-
 Return all possible sentences.
 
 Example:
@@ -64,23 +60,20 @@ s = "catsanddog"
 wordDict = ["cat","cats","and","sand","dog"]
 
 Possible splits:
-
 cats and dog
 cat sand dog
 
 Output:
 
 ["cats and dog","cat sand dog"]
-2️⃣ Key Observation
 
+2️⃣ Key Observation
 We must try every possible prefix.
 
 Example:
-
 catsanddog
 
 Possible prefixes:
-
 cat
 cats
 
@@ -89,9 +82,7 @@ Then solve remaining string recursively.
 3️⃣ Best Approach
 
 Use Backtracking + Memoization (DFS).
-
 Why?
-
 Because many substrings repeat.
 
 Example:
