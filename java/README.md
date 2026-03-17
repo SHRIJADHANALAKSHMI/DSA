@@ -25,7 +25,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 16 | 33.Search in Rotated sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.92 MB (Beats 66.13%) |
 | 17 | 122.best time to buy and sell 2.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:46.63MB (Beats 21.13%) |
 | 18 | 11.container with most water.java | Runtime:5 ms (Beats 81.93%) | Memory Usage:77.18MB (Beats 92.08%) |
-| 19 | 105.construct binary preorder.java |  |
+| 19 | 105.construct binary preorder and inorder.java | Runtime:3 ms (Beats 30.59%) | Memory Usage:45.37MB (Beats 91.81%) |
 | 20 | 4.median of two sorted arrays.java | Runtime:1 ms (Beats 99.72%) | Memory Usage:48.88MB (Beats 70.23%) |
 | 21 | 88.merge sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.77 MB (Beats 75.79%) |
 | 22 | 46.permutation.java | Runtime:2 ms (Beats 37.46%) | Memory Usage: 45.70MB (Beats 28.20%) |
