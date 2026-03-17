@@ -12,7 +12,7 @@ Passionate about Problem Solving • Algorithms • Clean Code
 <h2>📊 LeetCode Stats</h2>
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/SHRIJADHANALAKSHMI?theme=dark&font=Baloo&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Shrija16?theme=dark&font=Baloo"/>
 </p>
 
 <hr>
