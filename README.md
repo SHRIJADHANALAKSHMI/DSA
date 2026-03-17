@@ -3,7 +3,7 @@
 <h1 align="center">🚀 Data Structures & Algorithms (Java)</h1>
 
 <p align="center">
-<b>Hi hiiii I'm Shrija Dhanalakshmi</b><br>
+<b>Hi I'm Shrija Dhanalakshmi</b><br>
 Passionate about Problem Solving • Algorithms • Clean Code
 </p>
 
