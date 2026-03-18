@@ -4,7 +4,7 @@ class Solution {
         
         int[] dp = new int[n + 1];
 
-        // Base cases
+        // Base cases.
         dp[0] = 1;
         dp[1] = 1;
 
