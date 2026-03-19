@@ -1,6 +1,6 @@
 <div style="font-family: Arial, sans-serif; line-height:1.6; max-width:900px; margin:auto;">
 
-<h1 align="center">🚀 Data Structures & Algorithms (Java)</h1>
+<h1 align="center">🚀 Data Structures & Algorithms (Java).</h1>
 
 <p align="center">
 <b>Hi I'm Shrija Dhanalakshmi</b><br>
