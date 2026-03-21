@@ -13,7 +13,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 4 | 140.word break 2.java | Runtime:3 ms (Beats 53.42%) | Memory Usage:8.57MB (Beats 42.10%) |
 | 5 | 10.regular expressin matching.java | Runtime:2 ms (Beats 53.90%) | Memory Usage:43.96MB (Beats 19.60%) |
 | 6 | 1544.Make The String.java | Runtime:1 ms (Beats 99.55%) | Memory Usage: 45.92 MB (Beats 99.21%) |
-| 7 | 1374.generate a string with character that odd.java | Runtime:1 ms (Beats 99.92%) | Memory Usage:52.70MB (Beats 85.56%) |
+| 7 | 1374.generate a string with character that odd.java | Runtime:1 ms (Beats 94.03%) | Memory Usage:42.77MB (Beats 75.56%) |
 | 8 | 1360.how many days are between two date.java | Runtime: 8 ms (Beats 29.30%) | Memory: 43.41 MB (Beats 27.18%) |
 | 9 | 160.intersection of linkedlist.java | Runtime:1 ms (Beats 99.92%) | Memory Usage:52.70MB (Beats 85.56%) |
 | 10 | 92.reverse linked list.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:442.80MB (Beats 95.02%) |
