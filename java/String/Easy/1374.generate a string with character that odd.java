@@ -8,7 +8,7 @@ class Solution {
                 sb.append('a');
             }
         } 
-        // If n is even
+        // If n is even ... we can use n-1 'a's and 1 'b' to make the count of 'a' odd
         else {
             for (int i = 0; i < n - 1; i++) {
                 sb.append('a');
