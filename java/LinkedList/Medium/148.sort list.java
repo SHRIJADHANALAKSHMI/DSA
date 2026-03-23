@@ -13,7 +13,7 @@ class Solution {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) return head;
 
-        // Step 1: Get length
+        // Step 1: Get length... O(n)
         int length = 0;
         ListNode temp = head;
         while (temp != null) {
