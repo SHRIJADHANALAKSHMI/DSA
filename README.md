@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>Hi I'm Shrija Dhanalakshmi</b><br>
-Passionate about Problem Solving • Algorithms • Clean Code
+Passionate about Problem Solving • Algorithms 
 </p>
 
 <hr>
