@@ -4,7 +4,7 @@
 
 <p align="center">
 <b>Hi I'm Shrija Dhanalakshmi</b><br>
-Passionate about Problem Solving • Algorithms • Clean Code
+Passionate about Problem Solving • Algorithms 
 </p>
 
 <hr>
@@ -112,7 +112,7 @@ To become a proficient Software Engineer with strong expertise in
 <h2>📌 Connect With Me</h2>
 
 <p>
-🔗 <a href="https://github.com/SHRIJADHANALAKSHMI">GitHub Profile</a>
+🔗 <a href="https://github.com/SHRIJADHANALAKSHMI">GitHub Profile </a>
 </p>
 
 <hr>
