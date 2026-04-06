@@ -30,7 +30,7 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 21 | 81.search in rotated sorted array 2.java | Runtime:0ms (Beats 100.00%) | Memory Usage:45.16MB (Beats 39.62%) |
 | 22 | 80.remove duplicate sorted array 2.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:48.76MB (Beats 65.61%) |
 | 23 | 79.word search.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:42.44MB (Beats 99.04%) |
-| 24 | 57.insert interval.java | Runtime:1ms (Beats 97.68%) | Memory Usage:47.00MB (Beats 64.50%) |
+| 24 | 57.insert interval.java | Runtime:0ms (Beats 100.00%) | Memory Usage:42.88MB (Beats 84.02%) |
 | 25 | 54.sprial matrix.java | Runtime:1ms (Beats 97.68%) | Memory Usage:47.00MB (Beats 64.50%) |
 | 26 | 49.group anagrams.java | Runtime:7 ms (Beats 76.54%) | Memory Usage: 49.37 MB (Beats 96.06%) |
 | 27 | 48.Rotate image.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:44032MB (Beats 13.58%) |
