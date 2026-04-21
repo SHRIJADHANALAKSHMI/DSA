@@ -9,7 +9,7 @@ Passionate about Problem Solving • Algorithms
 
 <hr>
 
-<h2>📊 LeetCode Stats</h2>
+<h2>📊 LeetCode Stats </h2>
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Shrija16?theme=dark&font=Baloo"/>
