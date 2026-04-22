@@ -45,21 +45,22 @@ This document records my ongoing journey of practicing and mastering Data Struct
 | 36 | 48.Rotate image.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:44032MB (Beats 13.58%) |
 | 37 | 47.permutations 2.java | Runtime:3 ms (Beats 89.87%) | Memory Usage:46.43MB (Beats 94.46%) |
 | 38 | 40.coimbination sum 2.java | Runtime:7ms (Beats 36.89%) | Memory Usage:45.26MB (Beats 58.47%) |
-| 39 | 34.find first and last of element in sorted.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:48.32MB (Beats 26.92%) |
-| 40 | 33.Search in Rotated sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.92 MB (Beats 66.13%) |
-| 41 | 209.minimum size subarray sum.java | Runtime:1ms (Beats 99.94%) | Memory Usage:61.77MB (Beats 92.81%) |
-| 42 | 164.maximum gap.java | Runtime:9 ms (Beats 99.42%) | Memory Usage:81.82MB (Beats 99.84%) |
-| 43 | 122.best time to buy and sell 2.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:46.63MB (Beats 21.13%) |
-| 44 | 120.triangle.java | Runtime:3ms (Beats 86.04%) | Memory Usage:45.41MB (Beats 65.41%) |
-| 45 | 11.container with most water.java | Runtime:5 ms (Beats 81.93%) | Memory Usage:77.18MB (Beats 92.08%) |
-| 46 | 105.construct binary preorder and inorder.java | Runtime:3 ms (Beats 30.59%) | Memory Usage:45.37MB (Beats 91.81%) |
-| 47 | 51.n-queens.java | Runtime:3ms (Beats 41.77%) | Memory Usage:46.91MB (Beats 9.73%) |
-| 48 | 4.median of two sorted arrays.java | Runtime:1 ms (Beats 99.72%) | Memory Usage:48.88MB (Beats 70.23%) |
-| 49 | 88.merge sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.77 MB (Beats 75.79%) |
-| 50 | 46.permutation.java | Runtime:2 ms (Beats 37.46%) | Memory Usage: 45.70MB (Beats 28.20%) |
-| 51 | 14.longest common prefix.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.06 MB (Beats 92.39%) |
-| 52 | 1365. How Many Numbers Are Smaller Than the Current Number.java | Runtime:1 ms (Beats 99.64%) | Memory Usage: 45.53 MB (Beats 99.51%) |
-| 53 | 1356.sort integers by the number of 1 bits.java | Runtime:7 ms (Beats 89.18%) | Memory Usage: 46.92 MB (Beats 86.47%) |
-| 54 | 1346.check if N and its Double exist.java | Runtime:2 ms (Beats 97.58%) | Memory Usage: 44.92 MB (Beats 37.47%) |
-| 55 | 121.best time to buy and sell stock.java | Runtime:1 ms (Beats 99.81%) | Memory Usage:94.35MB (Beats 83.54%) |
-| 56 | 1.TwoSum.java | Runtime: 4 ms (Beats 93.64%) | Memory Usage: 45.2 MB (Beats 88.21%) |
+| 39 | 36.valid sudoku.java | Runtime:13ms (Beats 14.00%) | Memory Usage:52.32MB (Beats 15.86%) |
+| 40 | 34.find first and last of element in sorted.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:48.32MB (Beats 26.92%) |
+| 41 | 33.Search in Rotated sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.92 MB (Beats 66.13%) |
+| 42 | 209.minimum size subarray sum.java | Runtime:1ms (Beats 99.94%) | Memory Usage:61.77MB (Beats 92.81%) |
+| 43 | 164.maximum gap.java | Runtime:9 ms (Beats 99.42%) | Memory Usage:81.82MB (Beats 99.84%) |
+| 44 | 122.best time to buy and sell 2.java | Runtime:0 ms (Beats 100.00%) | Memory Usage:46.63MB (Beats 21.13%) |
+| 45 | 120.triangle.java | Runtime:3ms (Beats 86.04%) | Memory Usage:45.41MB (Beats 65.41%) |
+| 46 | 11.container with most water.java | Runtime:5 ms (Beats 81.93%) | Memory Usage:77.18MB (Beats 92.08%) |
+| 47 | 105.construct binary preorder and inorder.java | Runtime:3 ms (Beats 30.59%) | Memory Usage:45.37MB (Beats 91.81%) |
+| 48 | 51.n-queens.java | Runtime:3ms (Beats 41.77%) | Memory Usage:46.91MB (Beats 9.73%) |
+| 49 | 4.median of two sorted arrays.java | Runtime:1 ms (Beats 99.72%) | Memory Usage:48.88MB (Beats 70.23%) |
+| 50 | 88.merge sorted array.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.77 MB (Beats 75.79%) |
+| 51 | 46.permutation.java | Runtime:2 ms (Beats 37.46%) | Memory Usage: 45.70MB (Beats 28.20%) |
+| 52 | 14.longest common prefix.java | Runtime:0 ms (Beats 100.00%) | Memory Usage: 43.06 MB (Beats 92.39%) |
+| 53 | 1365. How Many Numbers Are Smaller Than the Current Number.java | Runtime:1 ms (Beats 99.64%) | Memory Usage: 45.53 MB (Beats 99.51%) |
+| 54 | 1356.sort integers by the number of 1 bits.java | Runtime:7 ms (Beats 89.18%) | Memory Usage: 46.92 MB (Beats 86.47%) |
+| 55 | 1346.check if N and its Double exist.java | Runtime:2 ms (Beats 97.58%) | Memory Usage: 44.92 MB (Beats 37.47%) |
+| 56 | 121.best time to buy and sell stock.java | Runtime:1 ms (Beats 99.81%) | Memory Usage:94.35MB (Beats 83.54%) |
+| 57 | 1.TwoSum.java | Runtime: 4 ms (Beats 93.64%) | Memory Usage: 45.2 MB (Beats 88.21%) |
