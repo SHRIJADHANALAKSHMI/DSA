@@ -34,10 +34,10 @@ class Solution {
 
         for (int i = 0; i < 9; i++) {
 
-            // row check
+            // row check then return false.
             if (board[row][i] == c) return false;
 
-            // column check
+            // column check then return false.
             if (board[i][col] == c) return false;
 
             // box check
