@@ -12,6 +12,6 @@ public class Solution {
             b = (b == null) ? headA : b.next;
         }
 
-        return a; // intersection node OR null
+        return a; // intersection node OR null will return 
     }
 }
