@@ -53,7 +53,7 @@ String s
 Dictionary wordDict
 You must insert spaces so that every word exists in the dictionary.
 Return all possible sentences.
-
+lets us take the example to understand
 Example:
 
 s = "catsanddog"
