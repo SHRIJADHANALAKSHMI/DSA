@@ -59,7 +59,7 @@ Example: lets as consider string s as catsanddog
 s = "catsanddog"
 wordDict = ["cat","cats","and","sand","dog"]
 
-Possible splits:
+Possible splits in to cats and dog , cat sand dog
 cats and dog
 cat sand dog
 
