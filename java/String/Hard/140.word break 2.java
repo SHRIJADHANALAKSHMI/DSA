@@ -67,7 +67,7 @@ Output:
 
 ["cats and dog","cat sand dog"]
 
-2️⃣ Key Observation
+2️.Key Observation is 
 We must try every possible prefix.
 
 Example:
@@ -79,7 +79,7 @@ cats
 
 Then solve remaining string recursively.
 
-3️⃣ Best Approach
+3️. Best Approach
 
 Use Backtracking + Memoization (DFS).
 Why?
@@ -93,7 +93,7 @@ dog
 
 Memoization saves results to avoid recomputation.
 
-4️⃣ Algorithm (Easy Steps)
+4️.Algorithm (Easy Steps)
 
 Convert wordDict → HashSet
 Start recursion from index 0
