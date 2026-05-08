@@ -82,15 +82,12 @@ Then solve remaining string recursively.
 3️. Best Approach
 
 Use Backtracking + Memoization (DFS).
-Why?
 Because many substrings repeat.
 
 Example:
-
 sanddog
 anddog
 dog
-
 Memoization saves results to avoid recomputation.
 
 4️.Algorithm (Easy Steps)
