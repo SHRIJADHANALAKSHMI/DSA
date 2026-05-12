@@ -2,7 +2,7 @@ public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 
         if (headA == null || headB == null)
-            return null;
+            return null; // return null
 
         ListNode a = headA;
         ListNode b = headB;
