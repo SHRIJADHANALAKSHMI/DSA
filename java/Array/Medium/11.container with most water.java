@@ -5,7 +5,7 @@ class Solution {
         int right = height.length - 1;
         int maxArea = 0;
 
-        while (left < right) {
+        while (left < right) { // as we donot know the end condition we use while
             
             int h = Math.min(height[left], height[right]);
             int width = right - left;
