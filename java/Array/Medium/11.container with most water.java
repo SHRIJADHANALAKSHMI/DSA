@@ -7,7 +7,7 @@ class Solution {
 
         while (left < right) { // as we donot know the end condition we use while
             
-            int h = Math.min(height[left], height[right]);
+            int h = Math.min(height[left], height[right]); // int h= min in the height(left),height(right)
             int width = right - left;
             int area = h * width;
 
