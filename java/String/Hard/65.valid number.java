@@ -10,13 +10,13 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
 
-            // Case 1: Digit
+            // Case 1: Digit will check
             if (Character.isDigit(ch)) {
                 numSeen = true;
                 numAfterE = true;
             }
 
-            // Case 2: Dot
+            // Case 2: Dot will check
             else if (ch == '.') {
                 // Dot not allowed after e or if already used
                 if (dotSeen || eSeen)
