@@ -5,7 +5,8 @@
  *     ListNode next;
  *     ListNode() {}
  *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ *     ListNode(int val, ListNode next) { this.val = val;
+ this.next = next; }
  * }
  */
 class Solution {
@@ -13,7 +14,7 @@ class Solution {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) return head;
 
-        // Step 1: Get length... O(n).
+        // Step 1: to  Get length... O(n).
         int length = 0;
         ListNode temp = head;
         while (temp != null) {
@@ -24,7 +25,7 @@ class Solution {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
 
-        // Step 2: Bottom-up merge
+        // Step 2:  for Bottom-up merge
         for (int size = 1; size < length; size *= 2) {
             ListNode curr = dummy.next;
             ListNode tail = dummy;
