@@ -4,7 +4,7 @@ class Solution {
         return Math.abs(totalDays(date1) - totalDays(date2));
     }
 
-    // Convert date to total no.of days . 
+    // Convert date to total no.of days  by converting string to the integer. 
     private int totalDays(String date) {
         
         String[] parts = date.split("-");
