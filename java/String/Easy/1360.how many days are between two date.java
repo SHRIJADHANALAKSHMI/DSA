@@ -14,7 +14,7 @@ class Solution {
 
         int days = 0;
 
-        // Add days for all previous years to find it is leap or not
+        
         for (int i = 0; i < year; i++) {
             days += isLeap(i) ? 366 : 365;
         }
